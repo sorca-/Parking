@@ -1,0 +1,499 @@
+16.07.2014 13:35:35 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: go to the parking #0
+16.07.2014 13:35:35 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: go to the parking #3
+16.07.2014 13:35:35 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: go to the parking #0
+16.07.2014 13:35:35 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: go to the parking #1
+16.07.2014 13:35:35 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: go to the parking #3
+16.07.2014 13:35:35 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: stay on parking #1 to 6 second.
+16.07.2014 13:35:35 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: stay on parking #0 to 7 second.
+16.07.2014 13:35:35 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: stay on parking #3 to 4 second.
+16.07.2014 13:35:35 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: stay on parking #0 to 5 second.
+16.07.2014 13:35:35 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: stay on parking #3 to 9 second.
+16.07.2014 13:35:40 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: left parking #3
+16.07.2014 13:35:40 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: go to the parking #0
+16.07.2014 13:35:40 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: stay on parking #0 to 0 second.
+16.07.2014 13:35:40 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: left parking #0
+16.07.2014 13:35:40 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: go to the parking #0
+16.07.2014 13:35:40 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: stay on parking #0 to 4 second.
+16.07.2014 13:35:41 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: left parking #0
+16.07.2014 13:35:41 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: go to the parking #1
+16.07.2014 13:35:41 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: stay on parking #1 to 7 second.
+16.07.2014 13:35:42 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: left parking #1
+16.07.2014 13:35:42 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: go to the parking #3
+16.07.2014 13:35:42 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: stay on parking #3 to 7 second.
+16.07.2014 13:35:43 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: left parking #0
+16.07.2014 13:35:43 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: go to the parking #3
+16.07.2014 13:35:43 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: stay on parking #3 to 9 second.
+16.07.2014 13:35:44 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: left parking #0
+16.07.2014 13:35:44 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: go to the parking #2
+16.07.2014 13:35:44 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: stay on parking #2 to 1 second.
+16.07.2014 13:35:44 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: left parking #3
+16.07.2014 13:35:44 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: go to the parking #2
+16.07.2014 13:35:44 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: stay on parking #2 to 0 second.
+16.07.2014 13:35:45 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: left parking #2
+16.07.2014 13:35:45 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: go to the parking #3
+16.07.2014 13:35:45 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: stay on parking #3 to 0 second.
+16.07.2014 13:35:45 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: left parking #3
+16.07.2014 13:35:45 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: go to the parking #0
+16.07.2014 13:35:45 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: stay on parking #0 to 6 second.
+16.07.2014 13:35:46 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: left parking #2
+16.07.2014 13:35:46 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: go to the parking #2
+16.07.2014 13:35:46 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: stay on parking #2 to 0 second.
+16.07.2014 13:35:46 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: left parking #2
+16.07.2014 13:35:46 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: go to the parking #2
+16.07.2014 13:35:46 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: stay on parking #2 to 4 second.
+16.07.2014 13:35:49 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: left parking #1
+16.07.2014 13:35:49 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: go to the parking #2
+16.07.2014 13:35:49 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: stay on parking #2 to 9 second.
+16.07.2014 13:35:49 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: left parking #3
+16.07.2014 13:35:49 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: go to the parking #2
+16.07.2014 13:35:49 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: stay on parking #2 to 7 second.
+16.07.2014 13:35:51 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: left parking #2
+16.07.2014 13:35:51 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: go to the parking #0
+16.07.2014 13:35:51 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: stay on parking #0 to 3 second.
+16.07.2014 13:35:52 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: left parking #0
+16.07.2014 13:35:52 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: go to the parking #1
+16.07.2014 13:35:52 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: stay on parking #1 to 1 second.
+16.07.2014 13:35:52 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: left parking #3
+16.07.2014 13:35:52 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: go to the parking #1
+16.07.2014 13:35:52 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: stay on parking #1 to 1 second.
+16.07.2014 13:35:53 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: left parking #1
+16.07.2014 13:35:53 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: go to the parking #3
+16.07.2014 13:35:53 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: stay on parking #3 to 5 second.
+16.07.2014 13:35:54 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: left parking #1
+16.07.2014 13:35:54 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: go to the parking #2
+16.07.2014 13:35:54 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: stay on parking #2 to 7 second.
+16.07.2014 13:35:54 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: left parking #0
+16.07.2014 13:35:54 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: go to the parking #1
+16.07.2014 13:35:54 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: stay on parking #1 to 8 second.
+16.07.2014 13:35:56 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: left parking #2
+16.07.2014 13:35:56 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: go to the parking #2
+16.07.2014 13:35:56 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: stay on parking #2 to 1 second.
+16.07.2014 13:35:58 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: left parking #2
+16.07.2014 13:35:58 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: go to the parking #1
+16.07.2014 13:35:58 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: stay on parking #1 to 0 second.
+16.07.2014 13:35:58 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: left parking #1
+16.07.2014 13:35:58 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: go to the parking #1
+16.07.2014 13:35:58 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: stay on parking #1 to 7 second.
+16.07.2014 13:35:58 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: left parking #2
+16.07.2014 13:35:58 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: go to the parking #1
+16.07.2014 13:35:58 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: stay on parking #1 to 5 second.
+16.07.2014 13:35:59 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: left parking #3
+16.07.2014 13:35:59 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: go to the parking #1
+16.07.2014 13:36:00 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: go to the parking #3
+16.07.2014 13:36:00 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: stay on parking #3 to 8 second.
+16.07.2014 13:36:02 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: left parking #2
+16.07.2014 13:36:02 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: go to the parking #0
+16.07.2014 13:36:02 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: stay on parking #0 to 0 second.
+16.07.2014 13:36:02 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: left parking #1
+16.07.2014 13:36:02 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: go to the parking #2
+16.07.2014 13:36:02 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: stay on parking #2 to 0 second.
+16.07.2014 13:36:02 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: left parking #2
+16.07.2014 13:36:02 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: go to the parking #3
+16.07.2014 13:36:02 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: stay on parking #3 to 9 second.
+16.07.2014 13:36:03 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: left parking #0
+16.07.2014 13:36:03 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: go to the parking #1
+16.07.2014 13:36:03 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: stay on parking #1 to 0 second.
+16.07.2014 13:36:03 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: left parking #1
+16.07.2014 13:36:03 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: go to the parking #3
+16.07.2014 13:36:03 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: stay on parking #3 to 6 second.
+16.07.2014 13:36:04 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: left parking #1
+16.07.2014 13:36:04 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: go to the parking #3
+16.07.2014 13:36:04 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: go to the parking #2
+16.07.2014 13:36:04 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: stay on parking #2 to 6 second.
+16.07.2014 13:36:05 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: left parking #1
+16.07.2014 13:36:05 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: go to the parking #3
+16.07.2014 13:36:07 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: go to the parking #0
+16.07.2014 13:36:07 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: stay on parking #0 to 8 second.
+16.07.2014 13:36:09 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: left parking #3
+16.07.2014 13:36:09 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: go to the parking #1
+16.07.2014 13:36:09 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: stay on parking #1 to 0 second.
+16.07.2014 13:36:09 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: left parking #3
+16.07.2014 13:36:09 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: go to the parking #4
+16.07.2014 13:36:09 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: stay on parking #4 to 6 second.
+16.07.2014 13:36:09 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: left parking #1
+16.07.2014 13:36:09 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: go to the parking #1
+16.07.2014 13:36:09 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: stay on parking #1 to 8 second.
+16.07.2014 13:36:10 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: left parking #2
+16.07.2014 13:36:10 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: go to the parking #2
+16.07.2014 13:36:10 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: stay on parking #2 to 1 second.
+16.07.2014 13:37:07 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: go to the parking #3
+16.07.2014 13:37:07 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: go to the parking #4
+16.07.2014 13:37:07 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: go to the parking #2
+16.07.2014 13:37:07 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: go to the parking #1
+16.07.2014 13:37:07 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: go to the parking #1
+16.07.2014 13:37:07 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: stay on parking #1 to 0 second.
+16.07.2014 13:37:07 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: stay on parking #4 to 8 second.
+16.07.2014 13:37:07 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: stay on parking #2 to 6 second.
+16.07.2014 13:37:07 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: stay on parking #3 to 4 second.
+16.07.2014 13:37:07 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: stay on parking #1 to 9 second.
+16.07.2014 13:37:08 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: left parking #1
+16.07.2014 13:37:08 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: go to the parking #1
+16.07.2014 13:37:08 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: stay on parking #1 to 8 second.
+16.07.2014 13:37:12 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: left parking #3
+16.07.2014 13:37:12 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: go to the parking #4
+16.07.2014 13:37:12 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: stay on parking #4 to 2 second.
+16.07.2014 13:37:14 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: left parking #2
+16.07.2014 13:37:14 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: go to the parking #1
+16.07.2014 13:37:14 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: stay on parking #1 to 6 second.
+16.07.2014 13:37:14 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: left parking #4
+16.07.2014 13:37:14 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: go to the parking #1
+16.07.2014 13:37:16 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: left parking #4
+16.07.2014 13:37:16 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: go to the parking #3
+16.07.2014 13:37:16 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: stay on parking #3 to 8 second.
+16.07.2014 13:37:17 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: left parking #1
+16.07.2014 13:37:17 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: stay on parking #1 to 0 second.
+16.07.2014 13:37:17 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: go to the parking #3
+16.07.2014 13:37:17 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: stay on parking #3 to 7 second.
+16.07.2014 13:37:17 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: left parking #1
+16.07.2014 13:37:17 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: go to the parking #0
+16.07.2014 13:37:17 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: stay on parking #0 to 5 second.
+16.07.2014 13:37:17 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: left parking #1
+16.07.2014 13:37:21 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: left parking #1
+16.07.2014 13:37:21 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: go to the parking #0
+16.07.2014 13:37:21 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: stay on parking #0 to 9 second.
+16.07.2014 13:37:22 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: left parking #0
+16.07.2014 13:37:24 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: left parking #3
+16.07.2014 13:37:24 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: go to the parking #2
+16.07.2014 13:37:24 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: stay on parking #2 to 0 second.
+16.07.2014 13:37:24 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: left parking #3
+16.07.2014 13:37:24 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: go to the parking #2
+16.07.2014 13:37:24 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: stay on parking #2 to 6 second.
+16.07.2014 13:37:25 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: left parking #2
+16.07.2014 13:37:30 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: left parking #2
+16.07.2014 13:37:31 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: left parking #0
+16.07.2014 13:38:08 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: go to the parking #2
+16.07.2014 13:38:08 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: go to the parking #2
+16.07.2014 13:38:08 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: go to the parking #2
+16.07.2014 13:38:08 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: go to the parking #0
+16.07.2014 13:38:08 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: go to the parking #1
+16.07.2014 13:38:08 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: stay on parking #2 to 0 second.
+16.07.2014 13:38:08 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: stay on parking #2 to 1 second.
+16.07.2014 13:38:08 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: stay on parking #2 to 0 second.
+16.07.2014 13:38:08 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: stay on parking #0 to 0 second.
+16.07.2014 13:38:08 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: stay on parking #1 to 1 second.
+16.07.2014 13:38:08 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: left parking #2
+16.07.2014 13:38:08 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: go to the parking #1
+16.07.2014 13:38:08 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: stay on parking #1 to 1 second.
+16.07.2014 13:38:08 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: left parking #0
+16.07.2014 13:38:08 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: go to the parking #2
+16.07.2014 13:38:08 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: stay on parking #2 to 0 second.
+16.07.2014 13:38:08 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: left parking #2
+16.07.2014 13:38:08 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: go to the parking #2
+16.07.2014 13:38:08 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: stay on parking #2 to 0 second.
+16.07.2014 13:38:08 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: left parking #2
+16.07.2014 13:38:08 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: left parking #2
+16.07.2014 13:38:08 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: go to the parking #4
+16.07.2014 13:38:08 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: stay on parking #4 to 1 second.
+16.07.2014 13:38:09 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: left parking #1
+16.07.2014 13:38:09 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: go to the parking #1
+16.07.2014 13:38:09 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: stay on parking #1 to 0 second.
+16.07.2014 13:38:09 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: left parking #2
+16.07.2014 13:38:09 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: go to the parking #2
+16.07.2014 13:38:09 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: stay on parking #2 to 0 second.
+16.07.2014 13:38:09 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: left parking #1
+16.07.2014 13:38:09 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: go to the parking #1
+16.07.2014 13:38:09 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: stay on parking #1 to 2 second.
+16.07.2014 13:38:09 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: left parking #2
+16.07.2014 13:38:09 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: go to the parking #0
+16.07.2014 13:38:09 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: stay on parking #0 to 2 second.
+16.07.2014 13:38:10 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: left parking #4
+16.07.2014 13:38:10 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: go to the parking #2
+16.07.2014 13:38:10 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: stay on parking #2 to 2 second.
+16.07.2014 13:38:10 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: left parking #1
+16.07.2014 13:38:10 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: go to the parking #3
+16.07.2014 13:38:10 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: stay on parking #3 to 1 second.
+16.07.2014 13:38:11 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: left parking #3
+16.07.2014 13:38:12 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: left parking #1
+16.07.2014 13:38:12 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: left parking #2
+16.07.2014 13:38:12 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: left parking #0
+16.07.2014 13:39:04 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: go to the parking #0
+16.07.2014 13:39:04 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: go to the parking #1
+16.07.2014 13:39:04 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: go to the parking #1
+16.07.2014 13:39:04 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: go to the parking #1
+16.07.2014 13:39:04 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: go to the parking #1
+16.07.2014 13:39:04 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: stay on parking #1 to 1 second.
+16.07.2014 13:39:04 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: stay on parking #1 to 0 second.
+16.07.2014 13:39:04 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: stay on parking #1 to 0 second.
+16.07.2014 13:39:04 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: stay on parking #0 to 2 second.
+16.07.2014 13:39:04 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: go to the parking #1
+16.07.2014 13:39:04 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: left parking #1
+16.07.2014 13:39:04 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: stay on parking #1 to 0 second.
+16.07.2014 13:39:04 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: go to the parking #1
+16.07.2014 13:39:05 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: stay on parking #1 to 1 second.
+16.07.2014 13:39:05 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: left parking #1
+16.07.2014 13:39:05 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: go to the parking #1
+16.07.2014 13:39:05 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: go to the parking #0
+16.07.2014 13:39:05 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: stay on parking #0 to 2 second.
+16.07.2014 13:39:05 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: left parking #1
+16.07.2014 13:39:05 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: go to the parking #1
+16.07.2014 13:39:05 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: stay on parking #1 to 2 second.
+16.07.2014 13:39:05 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: left parking #1
+16.07.2014 13:39:05 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: go to the parking #0
+16.07.2014 13:39:05 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: stay on parking #0 to 0 second.
+16.07.2014 13:39:06 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: left parking #1
+16.07.2014 13:39:06 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: go to the parking #0
+16.07.2014 13:39:06 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: left parking #0
+16.07.2014 13:39:06 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: stay on parking #0 to 1 second.
+16.07.2014 13:39:06 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: go to the parking #0
+16.07.2014 13:39:07 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: left parking #0
+16.07.2014 13:39:07 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: go to the parking #0
+16.07.2014 13:39:07 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: stay on parking #0 to 0 second.
+16.07.2014 13:39:07 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: left parking #0
+16.07.2014 13:39:07 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: go to the parking #0
+16.07.2014 13:39:07 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: stay on parking #0 to 2 second.
+16.07.2014 13:39:07 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: left parking #1
+16.07.2014 13:39:07 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: left parking #0
+16.07.2014 13:39:08 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: left parking #0
+16.07.2014 13:39:09 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: left parking #0
+16.07.2014 13:41:19 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: go to the parking #1
+16.07.2014 13:41:19 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: go to the parking #1
+16.07.2014 13:41:19 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: go to the parking #0
+16.07.2014 13:41:19 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: go to the parking #1
+16.07.2014 13:41:19 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: go to the parking #0
+16.07.2014 13:41:24 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: stay on parking #0 to 6 second.
+16.07.2014 13:41:25 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: stay on parking #1 to 6 second.
+16.07.2014 13:41:25 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: stay on parking #1 to 9 second.
+16.07.2014 13:41:26 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: stay on parking #0 to 5 second.
+16.07.2014 13:41:28 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: stay on parking #1 to 8 second.
+16.07.2014 13:41:31 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: left parking #1
+16.07.2014 13:41:31 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: go to the parking #1
+16.07.2014 13:41:31 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: left parking #0
+16.07.2014 13:41:31 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: go to the parking #0
+16.07.2014 13:41:31 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: left parking #0
+16.07.2014 13:41:31 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: go to the parking #0
+16.07.2014 13:42:18 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: go to the parking #0
+16.07.2014 13:42:18 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: go to the parking #0
+16.07.2014 13:42:18 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: go to the parking #0
+16.07.2014 13:42:18 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: go to the parking #0
+16.07.2014 13:42:18 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: go to the parking #0
+16.07.2014 13:42:23 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: stay on parking #0 to 6 second.
+16.07.2014 13:42:25 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: stay on parking #0 to 9 second.
+16.07.2014 13:42:27 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: stay on parking #0 to 9 second.
+16.07.2014 13:42:27 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: go to the parking #0
+16.07.2014 13:42:28 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: go to the parking #0
+16.07.2014 13:42:30 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: left parking #0
+16.07.2014 13:42:30 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: go to the parking #0
+16.07.2014 13:42:33 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: stay on parking #0 to 9 second.
+16.07.2014 13:42:34 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: left parking #0
+16.07.2014 13:42:34 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: go to the parking #0
+16.07.2014 13:42:36 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: stay on parking #0 to 8 second.
+16.07.2014 13:42:37 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: left parking #0
+16.07.2014 13:42:37 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: go to the parking #0
+16.07.2014 13:43:46 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: go to the parking #0
+16.07.2014 13:43:46 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: go to the parking #0
+16.07.2014 13:43:46 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: go to the parking #0
+16.07.2014 13:43:46 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: go to the parking #0
+16.07.2014 13:43:46 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: go to the parking #0
+16.07.2014 13:43:51 [Thread-3] INFO  by.boika.parking.model.Parking  - Thread-3: остался на парковке.
+16.07.2014 13:43:51 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: stay on parking #0 to 7 second.
+16.07.2014 13:43:52 [Thread-0] INFO  by.boika.parking.model.Parking  - Thread-0: остался на парковке.
+16.07.2014 13:43:52 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: stay on parking #0 to 9 second.
+16.07.2014 13:43:52 [Thread-4] INFO  by.boika.parking.model.Parking  - Thread-4: остался на парковке.
+16.07.2014 13:43:52 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: stay on parking #0 to 7 second.
+16.07.2014 13:43:53 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: go to the parking #0
+16.07.2014 13:43:55 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: go to the parking #0
+16.07.2014 13:44:31 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: go to the parking #0
+16.07.2014 13:44:31 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: go to the parking #0
+16.07.2014 13:44:31 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: go to the parking #0
+16.07.2014 13:44:31 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: go to the parking #0
+16.07.2014 13:44:31 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: go to the parking #0
+16.07.2014 13:44:37 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: stay on parking #0 to 9 second.
+16.07.2014 13:44:39 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: stay on parking #0 to 7 second.
+16.07.2014 13:44:40 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: stay on parking #0 to 9 second.
+16.07.2014 13:44:41 [Thread-2] INFO  by.boika.parking.model.Parking  - Thread-2: превышено время ожидания парковки.
+16.07.2014 13:44:41 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: go to the parking #0
+16.07.2014 13:44:41 [Thread-3] INFO  by.boika.parking.model.Parking  - Thread-3: превышено время ожидания парковки.
+16.07.2014 13:44:41 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: go to the parking #0
+16.07.2014 13:55:59 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: go to the parking #by.boika.parking.model.Parking@4c048af5
+16.07.2014 13:55:59 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: go to the parking #by.boika.parking.model.Parking@4c048af5
+16.07.2014 13:55:59 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: go to the parking #by.boika.parking.model.Parking@4c048af5
+16.07.2014 13:55:59 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: go to the parking #by.boika.parking.model.Parking@4c048af5
+16.07.2014 13:55:59 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: go to the parking #by.boika.parking.model.Parking@4c048af5
+16.07.2014 13:55:59 [Thread-5] INFO  by.boika.parking.model.Car  - Thread-5: go to the parking #by.boika.parking.model.Parking@4c048af5
+16.07.2014 13:55:59 [Thread-6] INFO  by.boika.parking.model.Car  - Thread-6: go to the parking #by.boika.parking.model.Parking@4c048af5
+16.07.2014 13:56:05 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: stay on parking #by.boika.parking.model.Parking@4c048af5
+16.07.2014 13:56:05 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: go to the parking #by.boika.parking.model.Parking@1e35f8fe
+16.07.2014 13:56:05 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: stay on parking #by.boika.parking.model.Parking@4c048af5
+16.07.2014 13:56:05 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: go to the parking #by.boika.parking.model.Parking@1e35f8fe
+16.07.2014 13:56:07 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: stay on parking #by.boika.parking.model.Parking@4c048af5
+16.07.2014 13:56:07 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: go to the parking #by.boika.parking.model.Parking@1e35f8fe
+16.07.2014 13:56:08 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: parking time out.
+16.07.2014 13:56:08 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: go to the parking #by.boika.parking.model.Parking@1e35f8fe
+16.07.2014 13:56:09 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: parking time out.
+16.07.2014 13:56:09 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: go to the parking #by.boika.parking.model.Parking@1e35f8fe
+16.07.2014 13:56:09 [Thread-6] INFO  by.boika.parking.model.Car  - Thread-6: parking time out.
+16.07.2014 13:56:09 [Thread-6] INFO  by.boika.parking.model.Car  - Thread-6: go to the parking #by.boika.parking.model.Parking@1e35f8fe
+16.07.2014 13:56:09 [Thread-5] INFO  by.boika.parking.model.Car  - Thread-5: parking time out.
+16.07.2014 13:56:09 [Thread-5] INFO  by.boika.parking.model.Car  - Thread-5: go to the parking #by.boika.parking.model.Parking@1e35f8fe
+16.07.2014 13:56:11 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: stay on parking #by.boika.parking.model.Parking@1e35f8fe
+16.07.2014 13:56:13 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: stay on parking #by.boika.parking.model.Parking@1e35f8fe
+16.07.2014 13:56:15 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: stay on parking #by.boika.parking.model.Parking@1e35f8fe
+16.07.2014 13:56:16 [Thread-6] INFO  by.boika.parking.model.Car  - Thread-6: parking time out.
+16.07.2014 13:56:16 [Thread-6] INFO  by.boika.parking.model.Car  - No places. Go to the home.
+16.07.2014 13:56:17 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: parking time out.
+16.07.2014 13:56:17 [Thread-2] INFO  by.boika.parking.model.Car  - No places. Go to the home.
+16.07.2014 13:56:17 [Thread-5] INFO  by.boika.parking.model.Car  - Thread-5: parking time out.
+16.07.2014 13:56:17 [Thread-5] INFO  by.boika.parking.model.Car  - No places. Go to the home.
+16.07.2014 13:56:18 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: parking time out.
+16.07.2014 13:56:18 [Thread-3] INFO  by.boika.parking.model.Car  - No places. Go to the home.
+16.07.2014 13:59:37 [Thread-5] INFO  by.boika.parking.model.Car  - Thread-5: go to the parking #0
+16.07.2014 13:59:37 [Thread-6] INFO  by.boika.parking.model.Car  - Thread-6: go to the parking #0
+16.07.2014 13:59:37 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: go to the parking #0
+16.07.2014 13:59:37 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: go to the parking #0
+16.07.2014 13:59:37 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: go to the parking #0
+16.07.2014 13:59:37 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: go to the parking #0
+16.07.2014 13:59:37 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: go to the parking #0
+16.07.2014 13:59:44 [Thread-6] INFO  by.boika.parking.model.Car  - Thread-6: stay on parking #0
+16.07.2014 13:59:44 [Thread-6] INFO  by.boika.parking.model.Car  - Thread-6: go to the parking #1
+16.07.2014 13:59:44 [Thread-5] INFO  by.boika.parking.model.Car  - Thread-5: stay on parking #0
+16.07.2014 13:59:44 [Thread-5] INFO  by.boika.parking.model.Car  - Thread-5: go to the parking #1
+16.07.2014 13:59:44 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: stay on parking #0
+16.07.2014 13:59:44 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: go to the parking #1
+16.07.2014 13:59:45 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: parking time out.
+16.07.2014 13:59:45 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: go to the parking #1
+16.07.2014 13:59:45 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: parking time out.
+16.07.2014 13:59:45 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: go to the parking #1
+16.07.2014 13:59:46 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: parking time out.
+16.07.2014 13:59:46 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: go to the parking #1
+16.07.2014 13:59:47 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: parking time out.
+16.07.2014 13:59:47 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: go to the parking #1
+16.07.2014 13:59:50 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: stay on parking #1
+16.07.2014 13:59:50 [Thread-6] INFO  by.boika.parking.model.Car  - Thread-6: stay on parking #1
+16.07.2014 13:59:50 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: stay on parking #1
+16.07.2014 13:59:52 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: parking time out.
+16.07.2014 13:59:52 [Thread-4] INFO  by.boika.parking.model.Car  - No places. Go to the home.
+16.07.2014 13:59:52 [Thread-5] INFO  by.boika.parking.model.Car  - Thread-5: parking time out.
+16.07.2014 13:59:52 [Thread-5] INFO  by.boika.parking.model.Car  - No places. Go to the home.
+16.07.2014 13:59:53 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: parking time out.
+16.07.2014 13:59:53 [Thread-3] INFO  by.boika.parking.model.Car  - No places. Go to the home.
+16.07.2014 13:59:55 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: parking time out.
+16.07.2014 13:59:55 [Thread-0] INFO  by.boika.parking.model.Car  - No places. Go to the home.
+16.07.2014 14:01:04 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: go to the parking #0
+16.07.2014 14:01:04 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: go to the parking #0
+16.07.2014 14:01:04 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: go to the parking #0
+16.07.2014 14:01:12 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: stay on parking #0
+16.07.2014 14:01:14 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: stay on parking #0
+16.07.2014 14:01:14 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: stay on parking #0
+16.07.2014 14:01:24 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: go to the parking #0
+16.07.2014 14:01:24 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: go to the parking #0
+16.07.2014 14:01:24 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: go to the parking #0
+16.07.2014 14:01:24 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: go to the parking #0
+16.07.2014 14:01:30 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: stay on parking #0
+16.07.2014 14:01:33 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: stay on parking #0
+16.07.2014 14:01:33 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: stay on parking #0
+16.07.2014 14:01:34 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: parking time out.
+16.07.2014 14:01:34 [Thread-2] INFO  by.boika.parking.model.Car  - No places. Go to the home.
+16.07.2014 14:01:47 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: go to the parking #0
+16.07.2014 14:01:47 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: go to the parking #0
+16.07.2014 14:01:47 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: go to the parking #0
+16.07.2014 14:01:47 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: go to the parking #0
+16.07.2014 14:01:47 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: go to the parking #0
+16.07.2014 14:01:53 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: stay on parking #0
+16.07.2014 14:01:53 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: stay on parking #0
+16.07.2014 14:01:54 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: stay on parking #0
+16.07.2014 14:01:55 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: parking time out.
+16.07.2014 14:01:55 [Thread-2] INFO  by.boika.parking.model.Car  - No places. Go to the home.
+16.07.2014 14:01:56 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: parking time out.
+16.07.2014 14:01:56 [Thread-0] INFO  by.boika.parking.model.Car  - No places. Go to the home.
+16.07.2014 14:02:27 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: go to the parking #0
+16.07.2014 14:02:27 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: go to the parking #0
+16.07.2014 14:02:27 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: go to the parking #0
+16.07.2014 14:02:27 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: go to the parking #0
+16.07.2014 14:02:27 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: go to the parking #0
+16.07.2014 14:02:32 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: stay on parking #0
+16.07.2014 14:02:32 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: go to the parking #1
+16.07.2014 14:02:34 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: stay on parking #0
+16.07.2014 14:02:34 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: go to the parking #1
+16.07.2014 14:02:34 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: stay on parking #0
+16.07.2014 14:02:34 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: go to the parking #1
+16.07.2014 14:02:36 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: parking time out.
+16.07.2014 14:02:36 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: go to the parking #1
+16.07.2014 14:02:37 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: parking time out.
+16.07.2014 14:02:37 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: go to the parking #1
+16.07.2014 14:02:40 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: stay on parking #1
+16.07.2014 14:02:42 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: stay on parking #1
+16.07.2014 14:02:43 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: stay on parking #1
+16.07.2014 14:02:45 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: parking time out.
+16.07.2014 14:02:45 [Thread-4] INFO  by.boika.parking.model.Car  - No places. Go to the home.
+16.07.2014 14:02:46 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: parking time out.
+16.07.2014 14:02:46 [Thread-3] INFO  by.boika.parking.model.Car  - No places. Go to the home.
+16.07.2014 14:07:09 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: go to the parking #0
+16.07.2014 14:07:09 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: go to the parking #0
+16.07.2014 14:07:09 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: go to the parking #0
+16.07.2014 14:07:09 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: go to the parking #0
+16.07.2014 14:07:09 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: go to the parking #0
+16.07.2014 14:07:15 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: stay on parking #0
+16.07.2014 14:07:16 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: stay on parking #0
+16.07.2014 14:07:16 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: stay on parking #0
+16.07.2014 14:07:17 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: parking time out.
+16.07.2014 14:07:17 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: go to the parking #1
+16.07.2014 14:07:18 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: parking time out.
+16.07.2014 14:07:18 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: go to the parking #1
+16.07.2014 14:07:25 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: stay on parking #1
+16.07.2014 14:07:27 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: stay on parking #1
+16.07.2014 14:07:37 [Thread-6] INFO  by.boika.parking.model.Car  - Thread-6: go to the parking #0
+16.07.2014 14:07:37 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: go to the parking #0
+16.07.2014 14:07:37 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: go to the parking #0
+16.07.2014 14:07:37 [Thread-5] INFO  by.boika.parking.model.Car  - Thread-5: go to the parking #0
+16.07.2014 14:07:37 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: go to the parking #0
+16.07.2014 14:07:37 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: go to the parking #0
+16.07.2014 14:07:37 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: go to the parking #0
+16.07.2014 14:07:42 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: stay on parking #0
+16.07.2014 14:07:43 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: stay on parking #0
+16.07.2014 14:07:43 [Thread-6] INFO  by.boika.parking.model.Car  - Thread-6: stay on parking #0
+16.07.2014 14:07:46 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: parking time out.
+16.07.2014 14:07:46 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: go to the parking #1
+16.07.2014 14:07:46 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: parking time out.
+16.07.2014 14:07:46 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: go to the parking #1
+16.07.2014 14:07:46 [Thread-5] INFO  by.boika.parking.model.Car  - Thread-5: parking time out.
+16.07.2014 14:07:46 [Thread-5] INFO  by.boika.parking.model.Car  - Thread-5: go to the parking #1
+16.07.2014 14:07:46 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: parking time out.
+16.07.2014 14:07:46 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: go to the parking #1
+16.07.2014 14:07:53 [Thread-5] INFO  by.boika.parking.model.Car  - Thread-5: stay on parking #1
+16.07.2014 14:07:54 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: stay on parking #1
+16.07.2014 14:07:55 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: stay on parking #1
+16.07.2014 14:07:55 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: parking time out.
+16.07.2014 14:07:55 [Thread-2] INFO  by.boika.parking.model.Car  - No places. Go to the home.
+16.07.2014 15:05:01 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: go to the parking #0
+16.07.2014 15:05:01 [Thread-9] INFO  by.boika.parking.model.Car  - Thread-9: go to the parking #0
+16.07.2014 15:05:01 [Thread-8] INFO  by.boika.parking.model.Car  - Thread-8: go to the parking #0
+16.07.2014 15:05:01 [Thread-5] INFO  by.boika.parking.model.Car  - Thread-5: go to the parking #0
+16.07.2014 15:05:01 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: go to the parking #0
+16.07.2014 15:05:01 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: go to the parking #0
+16.07.2014 15:05:01 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: go to the parking #0
+16.07.2014 15:05:01 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: go to the parking #0
+16.07.2014 15:05:01 [Thread-6] INFO  by.boika.parking.model.Car  - Thread-6: go to the parking #0
+16.07.2014 15:05:01 [Thread-7] INFO  by.boika.parking.model.Car  - Thread-7: go to the parking #0
+16.07.2014 15:05:06 [Thread-7] INFO  by.boika.parking.model.Car  - Thread-7: stay on parking #0
+16.07.2014 15:05:06 [Thread-3] INFO  by.boika.parking.model.Car  - Thread-3: stay on parking #0
+16.07.2014 15:05:07 [Thread-9] INFO  by.boika.parking.model.Car  - Thread-9: stay on parking #0
+16.07.2014 15:05:08 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: parking time out.
+16.07.2014 15:05:08 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: go to the parking #1
+16.07.2014 15:05:08 [Thread-8] INFO  by.boika.parking.model.Car  - Thread-8: parking time out.
+16.07.2014 15:05:08 [Thread-8] INFO  by.boika.parking.model.Car  - Thread-8: go to the parking #1
+16.07.2014 15:05:09 [Thread-5] INFO  by.boika.parking.model.Car  - Thread-5: parking time out.
+16.07.2014 15:05:09 [Thread-5] INFO  by.boika.parking.model.Car  - Thread-5: go to the parking #1
+16.07.2014 15:05:10 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: parking time out.
+16.07.2014 15:05:10 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: go to the parking #1
+16.07.2014 15:05:10 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: parking time out.
+16.07.2014 15:05:10 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: go to the parking #1
+16.07.2014 15:05:11 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: parking time out.
+16.07.2014 15:05:11 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: go to the parking #1
+16.07.2014 15:05:12 [Thread-6] INFO  by.boika.parking.model.Car  - Thread-6: parking time out.
+16.07.2014 15:05:12 [Thread-6] INFO  by.boika.parking.model.Car  - Thread-6: go to the parking #1
+16.07.2014 15:05:13 [Thread-1] INFO  by.boika.parking.model.Car  - Thread-1: stay on parking #1
+16.07.2014 15:05:16 [Thread-8] INFO  by.boika.parking.model.Car  - Thread-8: stay on parking #1
+16.07.2014 15:05:16 [Thread-2] INFO  by.boika.parking.model.Car  - Thread-2: stay on parking #1
+16.07.2014 15:05:18 [Thread-6] INFO  by.boika.parking.model.Car  - Thread-6: parking time out.
+16.07.2014 15:05:18 [Thread-6] INFO  by.boika.parking.model.Car  - Thread-6: go to the parking #2
+16.07.2014 15:05:19 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: parking time out.
+16.07.2014 15:05:19 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: go to the parking #2
+16.07.2014 15:05:20 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: parking time out.
+16.07.2014 15:05:20 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: go to the parking #2
+16.07.2014 15:05:20 [Thread-5] INFO  by.boika.parking.model.Car  - Thread-5: parking time out.
+16.07.2014 15:05:20 [Thread-5] INFO  by.boika.parking.model.Car  - Thread-5: go to the parking #2
+16.07.2014 15:05:23 [Thread-6] INFO  by.boika.parking.model.Car  - Thread-6: stay on parking #2
+16.07.2014 15:05:26 [Thread-5] INFO  by.boika.parking.model.Car  - Thread-5: stay on parking #2
+16.07.2014 15:05:28 [Thread-0] INFO  by.boika.parking.model.Car  - Thread-0: stay on parking #2
+16.07.2014 15:05:28 [Thread-4] INFO  by.boika.parking.model.Car  - Thread-4: parking time out.
+16.07.2014 15:05:28 [Thread-4] INFO  by.boika.parking.model.Car  - No places. Go to the home.
