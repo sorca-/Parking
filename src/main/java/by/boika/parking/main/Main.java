@@ -1,10 +1,6 @@
 package by.boika.parking.main;
 
-import by.boika.parking.model.Car;
 import by.boika.parking.model.InitRun;
-import by.boika.parking.model.Parking;
-
-import java.util.ArrayList;
 
 public class Main {
     public static void main(String[] args) {
